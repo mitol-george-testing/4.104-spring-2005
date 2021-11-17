@@ -1,0 +1,29 @@
+{
+  "level": "Undergraduate",
+  "topics": [
+    [
+      "Fine Arts",
+      "Architecture",
+      "Architectural Design"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "0d0f603b-77f2-da1b-22c5-7e429f58fe5e"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Architecture Studio: Intentions",
+  "course_description": "This is the second undergraduate design studio. It introduces a full range of architectural ideas and issues through drawing exercises, analyses of precedents, and explored design methods. Students will develop design skills by conceptualizing and representing architectural ideas and making aesthetic judgments about building design. Discussions regarding architecture's role in mediating culture, nature and technology will help develop the students' architectural vocabulary.\n",
+  "department_numbers": [
+    "4"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "4.104",
+  "learning_resource_types": [
+    "Image Gallery",
+    "Design Assignments",
+    "Written Assignments"
+  ],
+  "title": "Course Metadata"
+}
